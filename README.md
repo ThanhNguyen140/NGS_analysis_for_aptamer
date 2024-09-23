@@ -1,8 +1,9 @@
-cd ..# NGS ANALYSIS FOR APTAMER
+# NGS ANALYSIS FOR APTAMER
 Content:
-- [1. Goal](#1-goal)
-- [2. Tools](#2-tools)
-- [3. Structures](#3-structures)
+- [NGS ANALYSIS FOR APTAMER](#ngs-analysis-for-aptamer)
+  - [1. Goal](#1-goal)
+  - [2. Tools](#2-tools)
+  - [3. Structures](#3-structures)
    
 ## 1. Goal 
 The software was designed to load and preprocess NGS reads of aptamers at different rounds. It could be compiled by cx_freeze and was accompanied with GUI for easy use. 
