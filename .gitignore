@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 */__pycache__
+*.DS_Store
+*__init__.py
