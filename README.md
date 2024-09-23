@@ -22,4 +22,16 @@ The software provides the following tools.
 4. [control_panel](control_panel): links tooks and GUI together
 5. [setup.py](setup.py): script to compile the software in Python
    
-   
+Some examples of GUI:
+
+Figure 1: Options for analysis
+
+![window1](images/../images/gui1.png)
+
+Figure 2: Options for analysis
+
+![window2](images/../images/gui2.png)
+
+Figure3: Plots for quality check
+
+![window3](images/../images/gui3.png)
